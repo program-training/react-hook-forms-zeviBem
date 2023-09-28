@@ -1,0 +1,62 @@
+.style_form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+/* .style_div {
+    
+ 
+    width: 50px;
+    height: 20px;
+    background-color: aqua;
+    border: 2px, blue, solid;
+    margin: 4px; */
+    /* justify-content: center;
+    align-items: center; */
+/* } */
+
+#username {
+    width: auto;
+    height: auto;
+    background-color: aqua;
+    border: 2px skyblue solid;
+    margin: 4px;
+}
+
+#email {
+    width: auto;
+    height: auto;
+    background-color: aqua;
+    border: 2px skyblue solid;
+    margin: 4px;
+}
+
+#password {
+    width: auto;
+    height: auto;
+    background-color: aqua;
+    border: 2px skyblue solid;
+    margin: 4px;
+}
+
+#submit {
+    width: auto;
+    height: auto;
+    background-color: rgb(190, 212, 78);
+    border: 4px rgb(231, 220, 13) solid;
+    margin: 4px;
+}
+
+#option {
+    width: auto;
+    height: auto;
+    background-color: rgb(117, 149, 157);
+    border: 4px rgb(107, 85, 167) solid;
+    margin: 4px;
+}
+
+.error {
+    color: red;
+}
